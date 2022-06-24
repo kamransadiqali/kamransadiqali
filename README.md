@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamransadiqali
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Data Engeering
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Analytcis and Data Engineering
 - 📫 How to reach me ...
