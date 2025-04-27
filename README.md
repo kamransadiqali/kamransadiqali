@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamransadiqali
-- 👀 I’m interested in Data Analytics, Data Engeering and DevOps
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analytcis, Data Engineering and DevOps
+- 👀 I’m interested in Oracle ERP Development, Oracle Apex Development, , Test Automation (Selenium & Playwright)
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Data Analytics (Power BI & Tableau), DevOps/Cloud Engineering and Linux System Administration
 - 📫 How to reach me ...
 
 <!---
