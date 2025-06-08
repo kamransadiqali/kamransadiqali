@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamransadiqali
-- 👀 I’m interested in Oracle ERP Development, Oracle Apex Development, , Test Automation (Selenium & Playwright)
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m currently workking as Oracle ERP Development, Oracle Apex Development.
+- 🌱 I’m currently learning Test Automation (Selenium & Playwright).
 - 💞️ I’m looking to collaborate on DevOps/Cloud Engineering, Linux System Administration and Data Analytics (Power BI & Tableau).
 - 📫 How to reach me ...
 
